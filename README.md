@@ -28,19 +28,19 @@ This AI-powered desktop application detects **COVID-19**, **Pneumonia**, or **No
 ## 🖼️ Sample Screenshots
 
 ### 🧪 GUI Preview  
-<img src="images/gui.png" alt="GUI Preview" width="700"/>
+<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/gui.jpg" width="700"/>
 
 ### 📊 Graph Output  
-<img src=https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/graph.jpg alt="Accuracy/Loss Graphs" width="700"/>
+<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/graph.jpg" alt="Accuracy/Loss Graphs" width="700"/>
 
 ### 📷 Model Predictions  
-<img src="images/prediction.png" alt="Predictions Screenshot" width="700"/>
+<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/predictions.jpg" alt="Predictions Screenshot" width="700"/>
 
 ### 🔥 Grad-CAM Heatmap  
-<img src="images/gradcam.png" alt="Grad-CAM Heatmap" width="700"/>
+<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/grad-cam" alt="Grad-CAM Heatmap" width="700"/>
 
 ### 📄 PDF Report  
-<img src="images/report.png" alt="PDF Report Screenshot" width="700"/>
+<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/report.jpg" alt="PDF Report Screenshot" width="700"/>
 
 ---
 
