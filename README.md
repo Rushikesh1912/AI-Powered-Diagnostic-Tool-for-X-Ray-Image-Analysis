@@ -37,7 +37,7 @@ This AI-powered desktop application detects **COVID-19**, **Pneumonia**, or **No
 <img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/predictions.jpg" alt="Predictions Screenshot" width="700"/>
 
 ### 🔥 Grad-CAM Heatmap  
-<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/grad-cam" alt="Grad-CAM Heatmap" width="700"/>
+<img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/grad-cam.jpg" alt="Grad-CAM Heatmap" width="700"/>
 
 ### 📄 PDF Report  
 <img src="https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/report.jpg" alt="PDF Report Screenshot" width="700"/>
