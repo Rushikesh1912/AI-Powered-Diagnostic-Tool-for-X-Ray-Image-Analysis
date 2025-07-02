@@ -31,7 +31,7 @@ This AI-powered desktop application detects **COVID-19**, **Pneumonia**, or **No
 <img src="images/gui.png" alt="GUI Preview" width="700"/>
 
 ### 📊 Graph Output  
-<img src="images/graph.png" alt="Accuracy/Loss Graphs" width="700"/>
+<img src=https://github.com/Rushikesh1912/AI-Powered-Diagnostic-Tool-for-X-Ray-Image-Analysis/blob/main/Images/graph.jpg alt="Accuracy/Loss Graphs" width="700"/>
 
 ### 📷 Model Predictions  
 <img src="images/prediction.png" alt="Predictions Screenshot" width="700"/>
