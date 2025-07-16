@@ -48,7 +48,7 @@ This AI-powered desktop application detects **COVID-19**, **Pneumonia**, or **No
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/covid-xray-detection.git
+git clone https://github.com/Rushikesh1912/covid-xray-detection.git
 cd covid-xray-detection
 
 # 2. Install requirements
